@@ -5,12 +5,12 @@ Code Source Comming soon
 
 Amount minimun for sale: 200PCS
 
-200PCS * 0.00005BTC = 0.01BTC</ br>
+200PCS * 0.00005BTC = 0.01BTC<p>
 
                         Buy:
 
-Above 500PCS (10% discount)</ br>
-Above 1000PCS (15%descount)</ br>
+Above 500PCS (10% discount)<p>
+Above 1000PCS (15%descount)<p>
 Above 10000PCS (25% discount)</ br>
 
 Follow STEP:
