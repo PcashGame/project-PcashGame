@@ -11,13 +11,13 @@ Amount minimun for sale: 200PCS
 
 Above 500PCS (10% discount)<p>
 Above 1000PCS (15%descount)<p>
-Above 10000PCS (25% discount)</ br>
+Above 10000PCS (25% discount)<p>
 
-Follow STEP:
+Follow STEP:<p>
 1º donwload Wallet and sync </ br>
-2º visit https://pcashgame.ml/buy.php and request your CPS</ br></ br>
+2º visit https://pcashgame.ml/buy.php and request your CPS<p>
 
-Your Coins will arrive in your wallet within 2 hours after order confirmation.</ br>
+Your Coins will arrive in your wallet within 2 hours after order confirmation.<p>
 
-</ br></ br>
+<p><p>
 Pre sale closed now
